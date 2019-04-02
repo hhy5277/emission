@@ -17,6 +17,7 @@
 ### Master
 
 - Fixes overflowing Save button on small screen devices - ashley
+- Upgrade to React Native 0.59.2 - orta/alloy
 
 ### 1.9.4
 
